@@ -1,2 +1,4 @@
 # vhdl_gcd
-Máximo Divisor Comum em VHDL
+Maximum common divisor in hardware.
+
+Implemented in VHDL.
